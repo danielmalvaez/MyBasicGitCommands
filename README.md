@@ -1,5 +1,4 @@
 # My Basic Git Commands 🔮
-### Author: Daniel Malváez
 ---
 
 #### Basic Configuration
