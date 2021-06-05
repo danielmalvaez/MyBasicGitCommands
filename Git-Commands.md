@@ -26,7 +26,10 @@ To configure the initial branch name to use in all of your new repositories, use
 
 - git config --global init.defaultBranch <name>
 
-> Names commonly chosen are 'master', 'main', 'trunk' and 'development'.
+> Names commonly chosen are 'master', 'main', 'trunk' and 'development'.re
+
+- git config pull.rebase true
+> This is very useful if you want to do a sort of fusion between your new remote repo in GitHub and your local repo in order to have the documents 
 
 #### Local Repositories
 
